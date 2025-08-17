@@ -76,6 +76,6 @@ This setup can be extended further with RDS for databases, CloudFront for conten
 ✨ This project highlights my hands-on AWS cloud skills in deploying scalable, secure, and highly available applications.
 
 
-
+## 📌 Load Balancer Output image 
 
 ![Load Balancer Output](./Load_Balancer_Output.png)
