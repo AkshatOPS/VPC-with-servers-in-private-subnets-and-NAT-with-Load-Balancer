@@ -8,7 +8,7 @@ The goal is to showcase **high availability, scalability, and fault tolerance** 
 
 ## 📌 Project Architecture  
 
-![Architecture Diagram](./Screenshot%202025-08-17%20134533.png)  
+![Architecture Diagram](./Architecture Diagram.png)  
 
 ### Key Components  
 - **VPC** with public and private subnets spread across **two Availability Zones**.  
@@ -74,3 +74,5 @@ Build a fault-tolerant architecture across multiple Availability Zones.
 This setup can be extended further with RDS for databases, CloudFront for content delivery, or ECS/EKS for containerization.
 
 ✨ This project highlights my hands-on AWS cloud skills in deploying scalable, secure, and highly available applications.
+
+![Load Balancer Output](./Load Balancer Output.png)
