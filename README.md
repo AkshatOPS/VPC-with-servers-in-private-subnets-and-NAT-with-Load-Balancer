@@ -8,7 +8,7 @@ The goal is to showcase **high availability, scalability, and fault tolerance** 
 
 ## 📌 Project Architecture  
 
-![Architecture Diagram](./Architecture Diagram.png)  
+![Architecture Diagram](./Architecture Diagram.png)
 
 ### Key Components  
 - **VPC** with public and private subnets spread across **two Availability Zones**.  
